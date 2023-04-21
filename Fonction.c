@@ -2,7 +2,7 @@
 // Created by nicol on 21/04/2023.
 //
 
-#include "leFichierh.h"
+#include "Fonction.h"
 
 int calcul(int a)
 {
