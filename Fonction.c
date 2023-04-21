@@ -6,5 +6,5 @@
 
 int calcul(int a)
 {
-    return a+5;
+    return a+7;
 }
