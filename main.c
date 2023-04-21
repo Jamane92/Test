@@ -12,6 +12,5 @@ int main() {
         allegro_exit();
         exit(EXIT_FAILURE);
     }
-    printf("Vie vite, l'air");
     return 0;
 }END_OF_MAIN()
