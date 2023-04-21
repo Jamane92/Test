@@ -1,0 +1,11 @@
+//
+// Created by nicol on 21/04/2023.
+//
+
+#ifndef MAQUETTEPROJET_FONCTIONSPROJET_H
+#define MAQUETTEPROJET_FONCTIONSPROJET_H
+
+#endif //MAQUETTEPROJET_FONCTIONSPROJET_H
+
+int calcul(int a);
+
