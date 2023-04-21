@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "FonctionsProjet.h"
+#include "Fonction.h"
 #include "allegro.h"
 
 int main() {
@@ -12,5 +12,6 @@ int main() {
         allegro_exit();
         exit(EXIT_FAILURE);
     }
+    printf("Adolf");
     return 0;
 }END_OF_MAIN()
